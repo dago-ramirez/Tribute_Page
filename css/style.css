@@ -26,6 +26,11 @@ body {
     height: auto;
     display: block;
     margin: auto;
+    border-radius: 2.5%;
+}
+
+#img-div figcaption {
+    margin-top: 20px;
 }
 
 #tribute-info ul li {
